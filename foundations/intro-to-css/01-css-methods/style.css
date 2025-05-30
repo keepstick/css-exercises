@@ -5,3 +5,10 @@ div {
     font-weight: bold;
     text-align: center;
 }
+
+p {
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    background-color: green;
+}
