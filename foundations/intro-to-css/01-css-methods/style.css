@@ -12,3 +12,8 @@ p {
     font-size: 18px;
     background-color: green;
 }
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
